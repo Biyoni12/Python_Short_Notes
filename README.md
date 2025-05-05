@@ -1,4 +1,4 @@
-# Python Short Notes 🤖🔧
+# Python Short Notes 🐍
 
 Welcome to the **Python Short Notes** repository! This repository serves as a comprehensive guide for learning Python with concise, well-structured explanations and examples. Whether you are a beginner or an experienced programmer, these notes are designed to provide value and clarity.
 
