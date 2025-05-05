@@ -2,6 +2,7 @@
 
 Python provides powerful data structures for efficient data manipulation.
 
+
 ### Topics Covered
 
 1. Lists
