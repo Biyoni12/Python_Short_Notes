@@ -6,12 +6,12 @@ Welcome to the **Python Short Notes** repository! This repository serves as a co
 
 ## Table of Contents 🔍
 
-- [Basics](Basics/README.md) 🔢
-- [Data Structures](Data_Structures/README.md) 🗂️
-- [Functions](Functions/README.md) 🎮
-- [Object-Oriented Programming](Object_Oriented_Programming/README.md) 🔨
-- [Advanced Topics](Advanced_Topics/README.md) 🔄
-- [Useful Libraries](Useful_Libraries/README.md) 🔬
+- [Basics](Basics.md) 🔢
+- [Data Structures](Data_Structures.md) 🗂️
+- [Functions](Functions.md) 🎮
+- [Object-Oriented Programming](Object_Oriented_Programming.md) 🔨
+- [Advanced Topics](Advanced_Topics.md) 🔄
+- [Useful Libraries](Useful_Libraries.md) 🔬
 
 ---
 
