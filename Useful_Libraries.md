@@ -3,7 +3,7 @@
 ## Overview
 Python offers numerous libraries to simplify complex tasks.
 
-### Topics Covered
+### 📌 Topics Covered
 
 1. NumPy
 2. Pandas
