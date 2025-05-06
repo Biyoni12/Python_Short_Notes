@@ -3,7 +3,7 @@
 ## Overview
 Object-Oriented Programming (OOP) is a paradigm based on the concept of objects.
 
-### Topics Covered
+### 📌 Topics Covered
 
 1. Classes and Objects
 2. Inheritance
