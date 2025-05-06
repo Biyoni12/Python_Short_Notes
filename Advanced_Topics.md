@@ -3,7 +3,7 @@
 ## Overview
 Explore advanced concepts to enhance your Python skills.
 
-### Topics Covered
+### 📌 Topics Covered
 
 1. Generators
 2. Decorators
