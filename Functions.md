@@ -3,7 +3,7 @@
 ## Overview
 Functions are reusable blocks of code that perform specific tasks.
 
-### Topics Covered
+### 📌 Topics Covered
 
 1. Defining Functions
 2. Parameters and Arguments
