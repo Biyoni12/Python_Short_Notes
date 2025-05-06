@@ -2,7 +2,7 @@
 
 Python is a versatile, high-level programming language known for its simplicity and readability. This section covers the foundational concepts of Python programming.
 
-### Topics Covered
+### 📌 Topics Covered
 
 1. Variables and Data Types
 2. Input and Output
